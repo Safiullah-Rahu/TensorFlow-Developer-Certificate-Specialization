@@ -1,3 +1,3 @@
-# Assignment# 01
+# TensorFlow Developer Certificate Specialization
 
-## 50 Numpy functions
+## All Exercises Solutions
